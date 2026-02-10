@@ -1,2 +1,2 @@
-# trading-order-management-system
-Microservices-based Trading Order Management System built with Spring Boot, Kafka, Redis, and PostgreSQL.
+# Full Working Trading OMS Microservices
+Includes Orders + Positions + Kafka + Redis + JWT + Swagger
